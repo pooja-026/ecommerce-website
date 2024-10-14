@@ -7,8 +7,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - User authentication (login, registration, etc.)
 - Browse products by categories
 - Add products to the shopping cart
-- Checkout with Paytm payment gateway
+- Checkout with Paytm payment gateway.
 - Admin dashboard for product management
+  
 
 ## Available Scripts
 
